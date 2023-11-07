@@ -1,11 +1,3 @@
-<style>
-.skill {
-   display: flex;
-   justify-content: center;
-   column-gap: 20px;
-}
-</style>
-
 <h2>Languages and Tools</h2>
 <br>
 
@@ -13,7 +5,7 @@
 <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
 <br/>
 
-<div class="skill"  >
+<div  align="center"  >
 <span>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 </span>
