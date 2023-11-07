@@ -52,12 +52,10 @@
 </span>
 </div>
 
-#
+##
 
-<div>
 <h2>GitHub Stats</h2>
 <br>
-</div>
 <div>
   <a href="#" title="CuTrung">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=CuTrung&show_icons=true&theme=gruvbox&border_color=61dafb&hide_border=true&count_private=true&include_all_commits=true" />
