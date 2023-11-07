@@ -55,6 +55,7 @@
 #
 </div>
 
+<div width="250" >
 ```
 I-am-vishalmaurya@github
 -------------------------
@@ -69,6 +70,8 @@ I-am-vishalmaurya@github
 🎵 Love metal, lofi, jazz and soft music
 ```
 <br/>
+</div>
+
 
 
 <br>
