@@ -5,7 +5,7 @@
 
 
 
-<div align="right" >
+<div align="left" >
 <div align="center">
 <span>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -55,7 +55,6 @@
 #
 </div>
 
-<div width="250" >
 ```
 I-am-vishalmaurya@github
 -------------------------
@@ -69,10 +68,6 @@ I-am-vishalmaurya@github
 💖 In a complicated relationship with Neural Networks
 🎵 Love metal, lofi, jazz and soft music
 ```
-<br/>
-</div>
-
-
 
 <br>
 <h2>GitHub Stats</h2>
