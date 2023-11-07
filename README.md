@@ -3,24 +3,20 @@
 <!-- <img align="left" height="250px" width="250px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
 <br/> -->
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
-
-- 🌱 I’m currently Working on Mobile App(React-Native)
-
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-
-<br>
-
+```
+I-am-vishalmaurya@github
+-------------------------
+💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+📚 I have a Bachelors in Computer Science from the University of Mumbai at India
+📝 I have a strong interest in Data Science and Artificial Intelligence
+🔭 Working on Deep Learning & Machine Learning
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Main languages: Python, JavaScript
+🚩 Interested in Full Stack Machine Learning Application development
+💖 In a complicated relationship with Neural Networks
+🎵 Love metal, lofi, jazz and soft music
+```
+<br/>
 
 <div align="center">
 <span>
