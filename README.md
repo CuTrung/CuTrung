@@ -65,11 +65,6 @@
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
-<!-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-007ab5?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/cù-phan-thành-trung-29806629a/) -->
-[![Mail](https://img.shields.io/badge/-MAIL-f1f1f1?style=for-the-badge&logo=gmail)](mailto:cuphanthanhtrung4112003@gmail.com)
-<!-- [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook)](https://www.facebook.com/cuphan.thanhtrung)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Deepshi83711299) -->
-
 <a href="https://www.linkedin.com/in/cù-phan-thành-trung-29806629a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hridoy.the.hazard10" height="30" width="40" /></a>
 <a href="https://fb.com/hridoy.the.hazard10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoy.the.hazard10" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="a" height="30" width="40" /></a>
