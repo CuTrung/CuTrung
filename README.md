@@ -16,6 +16,9 @@ I-am-vishalmaurya@github
 💖 In a complicated relationship with Neural Networks
 🎵 Love metal, lofi, jazz and soft music
 ``` -->
+<div>
+
+
 <div align="left"></div>
 
 <div align="center">
@@ -66,7 +69,7 @@ I-am-vishalmaurya@github
 
 #
 
-
+</div>
 
 <br>
 <h2>GitHub Stats</h2>
