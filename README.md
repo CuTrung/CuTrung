@@ -43,11 +43,12 @@
 
 ## <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"> <b> Know more about me 👋</b>
 
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:deepshikhayadav2000@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Deepshi83711299)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/deepshikha-yadav-27-10/)
-[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-black?style=for-the-badge&logo=StackOverflow)](https://stackoverflow.com/users/12636730/deepshikha-yadav?tab=topactivity)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=Hackerrank)](https://www.hackerrank.com/deepshikhayadav2?tab=topactivity)
-[![Sololearn](https://img.shields.io/badge/-Sololearn-black?style=for-the-badge&logo=Sololearn)](https://www.sololearn.com/profile/18833908)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:cuphanthanhtrung4112003@gmail.com)
+<!-- [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Deepshi83711299) -->
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/cù-phan-thành-trung-29806629a/)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook)](https://www.facebook.com/cuphan.thanhtrung)
+<!-- [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-black?style=for-the-badge&logo=StackOverflow)](https://stackoverflow.com/users/12636730/deepshikha-yadav?tab=topactivity) -->
+<!-- [![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=Hackerrank)](https://www.hackerrank.com/deepshikhayadav2?tab=topactivity) -->
+
 
 </div>
