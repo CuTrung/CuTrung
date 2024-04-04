@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning about System Design, AWS
 - 📝 My blog: comming soon ...
 - 📺 My channel: <a href="https://www.youtube.com/channel/UCSW1h6pjj4WttEI_s4esvKg" target="blank">Channel</a>
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a> 
+- 📄 Know about my experiences <a href="https://github.com/CuTrung/resume/blob/main/CV_Fullstack_Developer_Cu_Trung.pdf" target="blank">Resume</a> 
 
 ## GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <br>
