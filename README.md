@@ -1,7 +1,7 @@
 ## About me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
-- 🔭 I am a fullstack developer
-- 🤝 I’m available for freelancing
+- 🔭 I'm a fullstack developer
+- 🤝 I'm available for freelancing
 - 🌱 I'm currently learning about System Design, AWS
 - 📝 My blog: coming soon...
 - 📺 My channel: <a href="https://www.youtube.com/channel/UCSW1h6pjj4WttEI_s4esvKg" target="blank">Channel</a>
