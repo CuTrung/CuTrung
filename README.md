@@ -1,6 +1,6 @@
 ## About me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
-- 🔭 I'm a Fullstack Developer
+- 🔭 I'm a Software Developer
 - 🤝 I'm available for freelancing
 - 🌱 I'm currently learning about System Design, AWS
 - 📝 My blog: <a href="https://dkbn-blog-fe.vercel.app" target="blank">Blog</a>
