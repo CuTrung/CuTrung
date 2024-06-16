@@ -3,7 +3,7 @@
 - 🔭 I'm a fullstack developer
 - 🤝 I'm available for freelancing
 - 🌱 I'm currently learning about System Design, AWS
-- 📝 My blog: coming soon...
+- 📝 My blog: <a href="https://dkbn-blog-fe.vercel.app" target="blank">Blog</a>
 - 📺 My channel: <a href="https://www.youtube.com/channel/UCSW1h6pjj4WttEI_s4esvKg" target="blank">Channel</a>
 - 📄 Know about my experiences <a href="https://github.com/CuTrung/CuTrung/blob/main/CV_Fullstack_Developer_CuTrung.pdf" target="blank">Resume</a> 
 
