@@ -3,9 +3,9 @@
 - 🔭 I'm a Software Developer
 - 🤝 I'm available for freelancing
 - 🌱 I'm currently learning about System Design, AWS
-- 📝 My blog: <a href="https://dkbn-blog-fe.vercel.app" target="blank">Blog</a>
-- 📺 My channel: <a href="https://www.youtube.com/@DevKeBanNghe-CT" target="blank">Channel</a>
-- 📄 Know about my experiences <a href="https://github.com/CuTrung/CuTrung/blob/main/CV_Fullstack_Developer_CuTrung.pdf" target="blank">Resume</a> 
+- 📝 My blog: <a href="https://dkbn-blog-fe.vercel.app" target="_blank">Blog</a>
+- 📺 My channel: <a href="https://www.youtube.com/@DevKeBanNghe-CT" target="_blank">Channel</a>
+- 📄 Know about my experiences <a href="https://github.com/CuTrung/CuTrung/blob/main/CV_Fullstack_Developer_CuTrung.pdf" target="_blank">Resume</a> 
 
 ## GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <br>
